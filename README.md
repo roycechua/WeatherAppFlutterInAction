@@ -1,6 +1,8 @@
 # weather_app
 
-A new Flutter project.
+This Flutter App is the app demonstrated in part 2 Chapters 4-6 of the book "Flutter in Action" by Eric Windmill. 
+
+Book link: https://www.manning.com/books/flutter-in-action
 
 ## Getting Started
 
